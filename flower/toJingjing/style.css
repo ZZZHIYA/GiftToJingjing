@@ -984,3 +984,5 @@ body {
 .not-loaded * {
   animation-play-state: paused !important;
 }
+.not-loaded{
+  height:65%;
