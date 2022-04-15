@@ -39,6 +39,7 @@ body {
 .flower {
   position: absolute;
   bottom: 10vmin;
+  margin-bootom: 200px;
   transform-origin: bottom center;
   z-index: 10;
   --fl-speed: 0.8s;
